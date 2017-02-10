@@ -7,3 +7,6 @@ C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\Serialis
 C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\Serialisation\Serialisation\bin\Debug\Serialisation.pdb
 C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\Serialisation\Serialisation\obj\Debug\Serialisation.exe
 C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\Serialisation\Serialisation\obj\Debug\Serialisation.pdb
+C:\Users\NAEFV_INFO\Desktop\TPIPreparation\Serialisation\Serialisation\bin\Debug\Serialisation.exe.config
+C:\Users\NAEFV_INFO\Desktop\TPIPreparation\Serialisation\Serialisation\obj\Debug\Serialisation.exe
+C:\Users\NAEFV_INFO\Desktop\TPIPreparation\Serialisation\Serialisation\obj\Debug\Serialisation.pdb
