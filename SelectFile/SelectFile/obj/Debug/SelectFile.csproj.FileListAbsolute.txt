@@ -1,0 +1,9 @@
+C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\SelectFile\SelectFile\bin\Debug\SelectFile.exe.config
+C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\SelectFile\SelectFile\bin\Debug\SelectFile.exe
+C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\SelectFile\SelectFile\bin\Debug\SelectFile.pdb
+C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\SelectFile\SelectFile\obj\Debug\SelectFile.csprojResolveAssemblyReference.cache
+C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\SelectFile\SelectFile\obj\Debug\SelectFile.Form1.resources
+C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\SelectFile\SelectFile\obj\Debug\SelectFile.Properties.Resources.resources
+C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\SelectFile\SelectFile\obj\Debug\SelectFile.csproj.GenerateResource.Cache
+C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\SelectFile\SelectFile\obj\Debug\SelectFile.exe
+C:\Users\NAEFV_INFO\Documents\Visual Studio 2013\Projects\ProgrammesTPI\SelectFile\SelectFile\obj\Debug\SelectFile.pdb
